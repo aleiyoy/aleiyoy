@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aleiyoy
-- 👀 I’m interested in python and C language.
+- 👀 I’m interested in python and golang.
 
